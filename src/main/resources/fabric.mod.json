@@ -5,7 +5,7 @@
 	"name": "Recenter",
 	"description": "Recenter your Camera with a Key-bind!\nThis Mod is designed for Gyro-Controls, but it works for anything.",
 	"authors": [
-		"Weebot"
+		"WiBot"
 	],
 	"license": "MIT",
 	"icon": "assets/recenter/icon.png",
