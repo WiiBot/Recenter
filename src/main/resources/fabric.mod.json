@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "recenter",
+	"version": "1.0.0",
+	"name": "Recenter",
+	"description": "Recenter your Camera with a Key-bind!\nThis Mod is designed for Gyro-Controls, but it works for anything.",
+	"authors": [
+		"Weebot"
+	],
+	"license": "MIT",
+	"icon": "assets/recenter/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.wibot.Recenter"
+		]
+	},
+	"mixins": [
+		"recenter.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": ">=1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
