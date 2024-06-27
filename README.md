@@ -3,6 +3,8 @@
 [![Modrinth downloads](https://img.shields.io/modrinth/dt/recenter?color=00AF5C&label=downloads&style=round&logo=modrinth)](https://modrinth.com/mod/recenter)
 [![Enviroment](https://img.shields.io/badge/Enviroment-Client-purple)](https://modrinth.com/mods?e=client)
 
+This is a Minecraft mod for fabric.
+
 ## Recenter your Camera with a keybind!
 
 Like in Splatoon or other shooter-games,
